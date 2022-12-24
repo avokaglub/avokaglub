@@ -1,8 +1,8 @@
-# Diplom_1
-
-[Задание 1: юнит-тесты](https://github.com/avokaglub/Diplom_1/)
+# Задание 1: юнит-тесты
 
 [Текст задания](https://github.com/avokaglub/Diplom_1/blob/main/task_1.md)
+
+[Результат](https://github.com/avokaglub/Diplom_1/)
 
 Для запуска тестов выполнить команду
 ```
@@ -22,11 +22,11 @@ git commit -m "add jacoco report"
 git push
 ```
 
-# Diplom_2
-
-[Задание 2: API](https://github.com/avokaglub/Diplom_2/)
+# Задание 2: API
 
 [Текст задания](https://github.com/avokaglub/Diplom_2/blob/main/task_2.md)
+
+[Результат](https://github.com/avokaglub/Diplom_2/)
 
 Для запуска тестов выполнить команду
 ```
@@ -38,11 +38,11 @@ allure generate --clean .\target\allure-results -o .\target\allure-reports
 allure open .\target\allure-reports
 ```
 
-# Diplom_3
-
-[Задание 3: веб-приложение](https://github.com/avokaglub/Diplom_3/)
+# Задание 3: веб-приложение
 
 [Текст задания](https://github.com/avokaglub/Diplom_3/blob/main/task_3.md)
+
+[Результат](https://github.com/avokaglub/Diplom_3/)
 
 Для запуска тестов выполнить команду
 ```
