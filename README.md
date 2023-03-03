@@ -1,3 +1,5 @@
+Дипломные задания по курсу [Автоматизатор тестирования на Java от Яндекс Практикума](https://practicum.yandex.ru/qa-automation-engineer-java/)
+
 # Задание 1: юнит-тесты
 
 [Текст задания](https://github.com/avokaglub/Diplom_1/blob/main/task_1.md)
